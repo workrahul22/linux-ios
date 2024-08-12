@@ -85,3 +85,5 @@ Create 'iso/boot/grub/grub.cfg' with following content
 ```bash
 	grub-mkrescue -o my_custom_linux.iso iso/
 ```
+
+Now use this iso file to create bootable in your pendrive
